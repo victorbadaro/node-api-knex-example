@@ -1,0 +1,8 @@
+{
+  "name": "node-api-knex-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/victorbadaro/node-api-knex-example.git",
+  "author": "Victor <victor.badaro@fatec.sp.gov.br>",
+  "license": "MIT"
+}
