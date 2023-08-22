@@ -26,7 +26,7 @@ Como você pode ver no tópico [🚀 Principais tecnologias](#-principais-tecnol
 
 1. Faça o clone do projeto (você vai precisar de um [personal access token](https://docs.github.com/pt/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls)):
    ```bash
-   $ git clone git@github.com:victorbadaro/node-api-knex-example.git
+   $ git clone https://github.com/victorbadaro/node-api-knex-example.git
    ```
 
 2. Acesse o diretório correspondente:

@@ -27,7 +27,7 @@ First things first:
 
 1. Clone the project (you'll need a [personal access token](https://docs.github.com/pt/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls)):
    ```bash
-   $ git clone git@github.com:victorbadaro/node-api-knex-example.git
+   $ git clone https://github.com/victorbadaro/node-api-knex-example.git
    ```
 
 2. Access its directory:
