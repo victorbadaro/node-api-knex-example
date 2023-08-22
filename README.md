@@ -48,7 +48,7 @@ First things first:
 
 5. Create a `.env` file in the root directory with the same content that is in the [.env.example](./.env.example) file and fill the variables with your own data:<br />
    For example:<br />
-   ![image](https://github.com/victorbadaro/node-api-knex-example/assets/9096344/868339ae-0ec6-4e84-aad8-cdd6c5d4e9d9)
+   ![image](https://github.com/victorbadaro/node-api-knex-example/assets/9096344/044c580b-a747-4dd8-a012-8bfd41537903)
 
 
 6. Run all the migrations to create the database relations:

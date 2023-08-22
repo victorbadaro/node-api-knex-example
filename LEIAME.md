@@ -47,7 +47,7 @@ Como você pode ver no tópico [🚀 Principais tecnologias](#-principais-tecnol
 
 5. Crie um arquivo `.env` na raíz do projeto com o mesmo conteúdo que está no arquivo [.env.example](./.env.example) e preencha as variáveis com os seus dados:<br />
    Por exemplo:<br />
-   ![image](https://github.com/victorbadaro/node-api-knex-example/assets/9096344/868339ae-0ec6-4e84-aad8-cdd6c5d4e9d9)
+   ![image](https://github.com/victorbadaro/node-api-knex-example/assets/9096344/044c580b-a747-4dd8-a012-8bfd41537903)
 
 6. Execute todas as _migrations_ para criar as relações no banco de dados:
    ```bash
