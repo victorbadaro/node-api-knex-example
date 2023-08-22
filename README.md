@@ -58,7 +58,7 @@ First things first:
 
 7. Start the server by running the `dev` script:
    ```bash
-   yarn dev
+   $ yarn dev
    ```
 
 ## 👌 Requests
